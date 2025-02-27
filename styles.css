@@ -1,0 +1,15 @@
+body{
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+footer{
+    margin-top: 20px;
+}
+
+.container{
+    background: linear-gradient(to left, #d1f72a, #5fda2f);
+    color: white;
+    padding: 20px;
+}
